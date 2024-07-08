@@ -9,7 +9,7 @@ This project is NOT available and NOT open source. Ownership rights are retained
 
 ---
 
-I will be uploading some of my projects to help others learn Lua, as I lost my old GitHub.
+I will be uploading some of my projects to help others learn Lua, as I lost my old github got termed rip Extrnl.cc
 
 Please refer to the [LICENSE HERE](https://github.com/Externalkey/Yap.lol/blob/main/LICENSE) for more details.
 
