@@ -11,6 +11,6 @@ This project is NOT available and NOT open source. Ownership rights are retained
 
 I will be uploading some of my projects to help others learn Lua, as I lost my old GitHub.
 
-Please refer to the [LICENSE HERE](https://github.com/xxx-xxx-xxx-x/Dahood-Camlock/blob/main/LICENSE) for more details.
+Please refer to the [LICENSE HERE](https://github.com/Externalkey/Yap.lol/blob/main/LICENSE) for more details.
 
 If you are going to misinterpret how this was meant to be used and use it to sell, please at least credit @extnalkey on Discord and ExternalKey on RawGitHub.
