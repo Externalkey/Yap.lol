@@ -5,7 +5,7 @@ It's nothing special, but I hope you guys like it.
 
 ---
 
-This project is NOT available and NOT open source. Ownership rights are retained by the developer, @extnalkey on Discord and ExternalKey on RawGitHub. You are welcome to incorporate or adapt this script or any system from this project into your repositories, provided that proper credit is given to @ExternalKey .
+This project is NOT OPEN SOURCE and WILL NEVER BE open source. Ownership rights are retained by the developer, @extnalkey on Discord and ExternalKey on RawGitHub. You can not claim this "Project" as yours. Nor copy it, if you are going to use it and showcase it please give creidt  @ExternalKey .
 
 ---
 
